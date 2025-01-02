@@ -9,7 +9,7 @@ import plotly.express as px
 API_BASE_URL = "https://api.sympla.com.br/public"
 
 # Set Streamlit app title with an emoji for better UX
-st.title("🔍 Sympla API Checker")
+st.title("🔍 Sympla API Analyzer")
 
 # -------------------------------
 # Helper Function
